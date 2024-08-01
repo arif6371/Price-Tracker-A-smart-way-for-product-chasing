@@ -1,8 +1,8 @@
 
 ---
 
-# 🌟 Ecom PricePulse Tracker 🌟
-
+# 🌟 PricePulse Tracker 🌟
+Pricepulse is an innovative shopping assistant app that uses advanced techniques to track and analyze Amazon prices. Simply select the items you're interested in, and let Pricepulse handle the rest. You'll receive timely alerts when prices drop, ensuring you always secure the best deals.
 ---
 
 ![Banner Image](https://example.com/banner-image-1)

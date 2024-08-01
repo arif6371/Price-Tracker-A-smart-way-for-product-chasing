@@ -1,10 +1,7 @@
-<div>
-<img src="https://images.app.goo.gl/XHEqCtUZ5kuzAP696" alt="Project Banner">
-</div>
 
 ---
 
-# 🌟 Ecom Price Tracker 🌟
+# 🌟 Ecom PricePulse Tracker 🌟
 
 ---
 

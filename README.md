@@ -161,10 +161,3 @@ Thank you for using Ecom Price Tracker! We hope this tool helps you find the bes
 
 ---
 
-In this version, I added:
-
-1. **Banners**: Placed at the start, middle, and end of the document with placeholders for images and captions.
-2. **Emojis**: Added emojis to headings and key points to make the document more engaging.
-3. **Image Banners**: Included placeholder links for images to visually enhance the document.
-
-You can replace the placeholder image URLs with actual URLs pointing to your images and adjust the captions as needed.

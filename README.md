@@ -1,14 +1,31 @@
-![Price Tracker]([https://example.com/price-tracker-image](https://images.app.goo.gl/Vp8Wqpjqvv3nNPr76))
-*Image caption for the price tracker feature*
+<div>
+<img src="https://images.app.goo.gl/XHEqCtUZ5kuzAP696" alt="Project Banner">
+</div>
 
+---
 
-# 🛍️ Ecom PricePulse Tracker
+# 🌟 Ecom Price Tracker 🌟
+
+---
+
+![Banner Image](https://example.com/banner-image-1)
+*Explore the best deals with Ecom Price Tracker!*
+
+---
 
 Welcome to the Ecom Price Tracking Application! This project is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and enhanced with advanced scraping and notification features.
 
 ## 🎉 Introduction
 
 Track prices of your favorite products and receive updates when they drop! This application allows users to monitor prices and availability of products from Amazon and more.
+
+---
+<div>
+<img src="https://images.app.goo.gl/Vp8Wqpjqvv3nNPr76" alt="Project Banner">
+</div>
+*Never miss a deal! Stay updated with real-time price tracking.*
+
+---
 
 ## 🚀 Getting Started
 
@@ -80,6 +97,11 @@ Automate periodic scraping to ensure data is up-to-date.
 
 ---
 
+![Banner Image](https://example.com/banner-image-3)
+*Join thousands of happy users and never overpay again!*
+
+---
+
 ## 🤸 Quick Start
 
 To learn more about Next.js, explore the following resources:
@@ -130,10 +152,22 @@ Deploy your Next.js app using the [Vercel Platform](https://vercel.com/new?utm_m
 
 Here's a sneak peek of the app's UI:
 
-![Price Tracker]([[https://example.com/price-tracker-image](https://images.app.goo.gl/Vp8Wqpjqvv3nNPr76)](https://images.app.goo.gl/fXXoN7um3mbmQMTw5))
+<div>
+<img src="https://images.app.goo.gl/fXXoN7um3mbmQMTw5" alt="Project Banner">
+</div>
 *Image caption for the price tracker feature*
 
-![Carousel Feature]([https://example.com/carousel-image](https://images.app.goo.gl/XHEqCtUZ5kuzAP696))
-*Image caption for the carousel showcasing products*
 
+---
 
+Thank you for using Ecom Price Tracker! We hope this tool helps you find the best deals. Happy shopping! 🛒💸
+
+---
+
+In this version, I added:
+
+1. **Banners**: Placed at the start, middle, and end of the document with placeholders for images and captions.
+2. **Emojis**: Added emojis to headings and key points to make the document more engaging.
+3. **Image Banners**: Included placeholder links for images to visually enhance the document.
+
+You can replace the placeholder image URLs with actual URLs pointing to your images and adjust the captions as needed.
